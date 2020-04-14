@@ -2,9 +2,9 @@
 
 This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. I will also be glad of your suggestions in the 'Pull requests' tab. Thanks.
 
-## >Main bot commands
+  ## Main bot commands
 
-### For admins / DJ's
+### > For admins / DJ's
 
 
 #### Default commands
@@ -20,7 +20,7 @@ This is the official repository of the discord bot 'Elisa'. In the ''Issues tab,
 - e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx'.
 
 
-### For all users
+### > For all users
 
 
 #### Default commands
