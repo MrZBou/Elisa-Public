@@ -1,6 +1,6 @@
 # Elisa public repository
 
-This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. I will also be glad of your suggestions in the 'Pull requests' tab. Thanks.
+This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. Thanks.
 
   ## Main bot commands
 
