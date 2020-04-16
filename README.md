@@ -28,7 +28,7 @@ More admin commands in 'settings commands'
 
 ### Music interface commands
 
-- e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx' [only for admins/DJ's]
+- e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx' **[only for admins/DJ's]**
 
 - e!skipto [number]` - Skip songs before to the selected
 
