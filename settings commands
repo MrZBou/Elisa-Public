@@ -1,2 +1,4 @@
-e!autoleave - On/Off leaving from voice channel after emptying the music queue
-e!autoclear - When getting a new level and getting a new role, clear the old roles received for level up
+([MC] - working in music channel only | [C] - in other channels]
+
+[MC] e!autoleave - On/Off leaving from voice channel after emptying the music queue
+[C] e!autoclear - When getting a new level and getting a new role, clear the old roles received for level up
