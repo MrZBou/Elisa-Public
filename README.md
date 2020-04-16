@@ -6,6 +6,7 @@ This is the official repository of the discord bot 'Elisa'. In the ''Issues tab,
 
 ### > For admins / DJ's
 
+MORE ADMIN COMMANDS IN SETTINGS-COMMANDS.MD
 
 #### Default commands
 
@@ -15,10 +16,15 @@ This is the official repository of the discord bot 'Elisa'. In the ''Issues tab,
 
 - e!prefix [prefix] - Change bot prefix. If [prefix] is empty, then bot will display your current prefix (this command will also work with the 'e!' prefix, even if you change it)
 
+- e!addrole [level] [@role] - Set role as a reward for get this level
+
+- e!removerole [level] - Reset the role for getting this level
+
+- e!roles - Get a message with data on levels and their roles
+
 #### Music interface commands
 
 - e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx'.
-
 
 ### > For all users
 
