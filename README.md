@@ -4,11 +4,8 @@ This is the official repository of the discord bot 'Elisa'. In the ''Issues tab,
 
   ## Main bot commands
 
-### > For admins / DJ's
-
+### Admins commands
 More admin commands in 'settings commands'
-
-#### Default commands
 
 - e!install - Install bot music interface the current channel [Only admins/DJ's can use this]
 
@@ -22,17 +19,19 @@ More admin commands in 'settings commands'
 
 - e!roles - Get a message with data on levels and their roles
 
-#### Music interface commands
 
-- e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx'.
-
-### > For all users
-
-
-#### Default commands
+### Default commands
 
 - e!help (e!ru_help for russian language) - Message with all bot commands with explanations
 
 - e!user - Get some information about mentioned user
 
+### Music interface commands
 
+- e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx' [only for admins/DJ's]
+
+- e!skipto [number]` - Skip songs before to the selected
+
+- e!remove [number]` - Remove picked song from the queue
+
+- e!last` - Add last played song to the queue
