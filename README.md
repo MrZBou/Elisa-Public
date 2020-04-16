@@ -6,7 +6,7 @@ This is the official repository of the discord bot 'Elisa'. In the ''Issues tab,
 
 ### > For admins / DJ's
 
-MORE ADMIN COMMANDS IN SETTINGS-COMMANDS.MD
+More admin commands in 'settings commands'
 
 #### Default commands
 
