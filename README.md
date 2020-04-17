@@ -35,3 +35,13 @@ More admin commands in 'settings commands'
 - e!remove [number]` - Remove picked song from the queue
 
 - e!last` - Add last played song to the queue
+
+> Playlist (in developing)
+
+- e!pl_add [num/num1-num-2]` - Add selected songs to playlist
+
+- e!pl_get [@user]` - Get our playlist, or playlist of mentioned user (if him playlist is public)
+
+- e!pl_play` - Add song of playlist to the song queue
+
+- e!pl_private` - Set your playlist private/public
