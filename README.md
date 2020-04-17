@@ -30,18 +30,18 @@ More admin commands in 'settings commands'
 
 - e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx' **[only for admins/DJ's]**
 
-- e!skipto [number]` - Skip songs before to the selected
+- e!skipto [number] - Skip songs before to the selected
 
-- e!remove [number]` - Remove picked song from the queue
+- e!remove [number] - Remove picked song from the queue
 
-- e!last` - Add last played song to the queue
+- e!last - Add last played song to the queue
 
 > Playlist (in developing)
 >
->- e!pl_add [num / num1-num2]` - Add selected songs from song queue to playlist
+>- e!pl_add [num / num1-num2] - Add selected songs from song queue to playlist
 >
->- e!pl_search [@user]` - Get your playlist, or playlist of mentioned user (if him playlist is public)
+>- e!pl_search [@user] - Get your playlist, or playlist of mentioned user (if him playlist is public)
 >
->- e!pl_play [num / num1-num2]` - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue)
+>- e!pl_play [num / num1-num2] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue)
 >
->- e!pl_private` - Set your playlist private/public
+>- e!pl_private - Set your playlist private/public
