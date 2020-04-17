@@ -36,12 +36,12 @@ More admin commands in 'settings commands'
 
 - e!last` - Add last played song to the queue
 
-> Playlist (in developing)
+>> Playlist (in developing)
 
-- e!pl_add [num/num1-num-2]` - Add selected songs to playlist
+>- e!pl_add [num / num1-num2]` - Add selected songs to playlist
 
-- e!pl_get [@user]` - Get our playlist, or playlist of mentioned user (if him playlist is public)
+>- e!pl_search [@user]` - Get your playlist, or playlist of mentioned user (if him playlist is public)
 
-- e!pl_play` - Add song of playlist to the song queue
+>- e!pl_play [num / num1-num2]` - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue)
 
-- e!pl_private` - Set your playlist private/public
+>- e!pl_private` - Set your playlist private/public
