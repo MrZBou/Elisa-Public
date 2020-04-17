@@ -40,7 +40,7 @@ More admin commands in 'settings commands'
 >
 >- e!pl_add [num / num1-num2] - Add selected songs from song queue to playlist
 >
->- e!pl_search [@user] - Get your playlist, or playlist of mentioned user (if him playlist is public)
+>- e!pl_get [@user] - Get your playlist, or playlist of mentioned user (if him playlist is public)
 >
 >- e!pl_play [num / num1-num2] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue)
 >
