@@ -38,7 +38,7 @@ More admin commands in 'settings commands'
 
 > Playlist (in developing)
 >
->- e!pl_add [num / num1-num2]` - Add selected songs to playlist
+>- e!pl_add [num / num1-num2]` - Add selected songs from song queue to playlist
 >
 >- e!pl_search [@user]` - Get your playlist, or playlist of mentioned user (if him playlist is public)
 >
