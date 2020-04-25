@@ -1,3 +1,9 @@
+0.82 beta
+Add 'Status' field to music interface
+Add 'Request by' field to music interface (if add song to playlist, this user will be requester)
+Increased security
+Bug fixes
+
 0.8 beta
 Fix problems with permissions
 Add 'uninstall' command
