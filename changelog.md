@@ -1,4 +1,4 @@
-### 0.82 beta (most stable)
+### 0.82b (most stable)
 
 - Add 'Status' field to music interface
 
