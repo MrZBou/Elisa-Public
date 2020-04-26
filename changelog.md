@@ -1,3 +1,13 @@
+### 0.83b
+
+- Some bug fixes
+
+- Removes volume reactions (⬆️ & ⬇️)
+
+- Add 'vol' command (changes volume, 50 - 150 %)
+
+- Add shuffle reaction (🔀). After clicked, all songs in the queue are mixed
+
 ### 0.82b (most stable)
 
 - Add 'Status' field to music interface
