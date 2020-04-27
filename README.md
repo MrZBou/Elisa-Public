@@ -3,7 +3,7 @@
 
 This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. Thanks.
 
-  ## Main bot commands
+  ## Main commands
 
 ### Admins commands
 More admin commands in 'settings commands'
@@ -19,14 +19,13 @@ More admin commands in 'settings commands'
 - e!removerole [level] - Reset the role for getting this level
 
 - e!roles - Get a message with data on levels and their roles
-
-
+***
 ### Default commands
 
 - e!help (e!ru_help for russian language) - Message with all bot commands with explanations
 
 - e!user - Get some information about mentioned user
-
+***
 ### Music interface commands
 
 - e!uninstall - Uninstall music interface (the bot will accept this channel like any other)
@@ -39,15 +38,17 @@ More admin commands in 'settings commands'
 
 - e!last - Add last played song to the queue
 
-> Playlist (in developing)
->
->- e!pl_add [num / num1-num2] - Add selected songs from song queue to playlist
->
->- e!pl_get [@user] - Get your playlist, or playlist of mentioned user (if him playlist is public)
->
->- e!pl_play [num / num1-num2] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue)
->
->- e!pl_private - Set your playlist private/public
->
+- e!vol [volume%] - Sets the music volume
+
+> Playlists commands
+
+- e!pl_add [num / num1-num2] - Add selected songs from song queue to playlist
+
+- e!pl_get [@user] - Get your playlist, or playlist of mentioned user (if him playlist is public)
+
+- e!pl_play [num / num1-num2] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue)
+
+- e!pl_private - Set your playlist private/public
+
 >- e!pl_remove [num / num1-num2] - Remove selected song/songs from the queue
 
