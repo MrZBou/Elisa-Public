@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 0.82
+## Current version: 0.83b
 
 This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. Thanks.
 
