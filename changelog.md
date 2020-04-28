@@ -8,6 +8,8 @@
 
 - Add shuffle reaction (🔀). After clicked, all songs in the queue are mixed
 
+- Bot can work without all the necessary permissions, but without some features
+
 ### 0.82b (most stable)
 
 - Add 'Status' field to music interface
