@@ -2,7 +2,7 @@
 
 - Fixes many bugs
 
-- Change music searching system. If the requested song can't be played, bot will play the song at a similar request.
+- Improve the music searching system. 
 
 - Now only DJ's and admins can interact with music, but if DJ role not specified, everyone will can interacting.
 
