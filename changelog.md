@@ -1,4 +1,12 @@
-### 0.83b
+### 0.84b
+
+- Fixes many bugs
+
+- Change music searching system. If the requested song can't be played, bot will play the song at a similar request.
+
+- Now only DJ's and admins can interact with music, but if DJ role not specified, everyone will can interacting.
+
+### 0.83b (most stable)
 
 - Some bug fixes
 
@@ -10,7 +18,7 @@
 
 - Bot can work without all the necessary permissions, but without some features
 
-### 0.82b (most stable)
+### 0.82b
 
 - Add 'Status' field to music interface
 
