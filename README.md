@@ -22,6 +22,8 @@ More admin commands in 'settings commands'
 
 - e!roles - Get a message with data on levels and their roles
 
+- e!notifications - Disabling/enabling bot notifications (level up, music initialize)
+
 - e!levels [enable/disable] - Enabling/disabling levels-roles system on this channel
 ***
 ### Default commands
