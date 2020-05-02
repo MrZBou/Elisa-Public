@@ -6,6 +6,7 @@ This is the official repository of the discord bot 'Elisa'. In the ''Issues tab,
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=305145856
 
   ## Main commands
+>> __Square brackets ( [] ) are used to indicate the value you must type. When using the command, *you do not need to write them*! For example: e!DJrole [@role], you should type e!DJrole @DJ__
 
 ### Admins commands
 More admin commands in 'settings commands'
@@ -22,9 +23,11 @@ More admin commands in 'settings commands'
 
 - e!roles - Get a message with data on levels and their roles
 
-- e!notifications - Disabling/enabling bot notifications (level up, music initialize)
+- e!autoclear - Disabling/enabling clearing old roles, gotten from level up's, when you reach a new level role (default: enabled)
 
-- e!levels [enable/disable] - Enabling/disabling levels-roles system on this channel
+- e!notifications - Disabling/enabling bot notifications (level up, music initialize) (default: enabled)
+
+- e!levels [enable/disable] - Enabling/disabling levels-roles system on this channel (default: enabled)
 ***
 ### Default commands
 
@@ -36,7 +39,9 @@ More admin commands in 'settings commands'
 
 - e!uninstall - Uninstall music interface (the bot will accept this channel like any other)
 
-- e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx' **[only for admins/DJ's]**
+- e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx' **[only for admins]**
+
+- e!autoleave - Disabling/Enabling auto leave from voice channel, when song queue is empty (default: disabled)
 
 - e!skipto [number] - Skip songs before to the selected
 
