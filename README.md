@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 0.84b
+## Current version: 0.89b
 
 This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. Thanks.
 
@@ -21,6 +21,8 @@ More admin commands in 'settings commands'
 - e!removerole [level] - Reset the role for getting this level
 
 - e!roles - Get a message with data on levels and their roles
+
+- e!levels [enable/disable] - Enabling/disabling levels-roles system on this channel
 ***
 ### Default commands
 
@@ -48,7 +50,7 @@ Playlists commands
 
 - e!pl_get [@user] - Get your playlist, or playlist of mentioned user (if him playlist is public)
 
-- e!pl_play [num / num1-num2] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue)
+- e!pl_play [num / num1-num2] [@user] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue, and if you don't pick a user, your playlist will be playing)
 
 - e!pl_private - Set your playlist private/public
 
