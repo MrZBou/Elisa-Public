@@ -34,6 +34,14 @@ More admin commands in 'settings commands'
 - e!help (e!ru_help for russian language) - Message with all bot commands with explanations
 
 - e!user - Get some information about mentioned user
+
+- e!pay [amount] [@user / userid] - Transfer money to another user (money displayed in e!user)
+
+Funny commands
+
+- e!kiss [@user] - Kiss the user (who would have thought?)
+
+- e!hug [@user] - Hug the user
 ***
 ### Music interface commands
 
@@ -50,6 +58,10 @@ More admin commands in 'settings commands'
 - e!last - Add last played song to the queue
 
 - e!vol [volume%] - Sets the music volume
+
+- e!move [song1] [song2] - Move the song1 to song2 place in queue
+
+- e!replace [song1] [song2] - Replace the song1 to song2
 
 Playlists commands
 
