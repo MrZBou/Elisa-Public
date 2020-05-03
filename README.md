@@ -49,6 +49,10 @@ Funny commands
 
 - e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx' **[only for admins]**
 
+- e!skip - Skip current song (instead of this command i recommend using ⏭️ button in UI)
+
+- e!stop - Clear the song queue (instead of this command i recommend using ⏹️ button in UI)
+
 - e!autoleave - Disabling/Enabling auto leave from voice channel, when song queue is empty (default: disabled)
 
 - e!skipto [number] - Skip songs before to the selected
