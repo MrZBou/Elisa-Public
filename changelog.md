@@ -1,4 +1,16 @@
-## 0.9b (most stable)
+## 0.9r (most stable) [RELEASED]
+
+- Add 'kiss' and 'hug' commands (the most important thing in update)
+
+- Add 'move' and 'replace' commands in music channel for more convenient interaction with music
+
+- Add 'pay' to paid money to other peoples (money so far useless)
+
+- Some changes to improve usability. For example: now you can put a space after the prefix
+
+- Now the bot will be notify you of a possible restart, as well as other things
+
+## 0.9b
 
 - Serious bugs fixed (for example, when all users’ playlists were deleted for an unknown reason)
 
