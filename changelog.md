@@ -1,3 +1,19 @@
+## 0.9b (most stable)
+
+- Serious bugs fixed (for example, when all users’ playlists were deleted for an unknown reason)
+
+- Some commands received synonyms (for example, e!help - e!commands) for convenience
+
+- Fix bugs, which appeared due to the use of a large number of users
+
+- Update 'help' command
+
+- Now the bot will request permissions only when necessary, and only if you got an admin permission
+
+- Optimize updating system, now bot will save all necessary information before reloading
+
+- Stabilizate for use
+
 ### 0.89b
 
 - The bot will no longer sent you DM's about a enought of permissions when you just writing in text channels
@@ -16,7 +32,7 @@
 
 - Now only DJ's and admins can interact with music, but if DJ role not specified, everyone will can interacting.
 
-### 0.83b (most stable)
+### 0.83b
 
 - Some bug fixes
 
