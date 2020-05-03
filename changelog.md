@@ -1,4 +1,4 @@
-## 0.9r (most stable) [RELEASED]
+## 0.9r (most stable) [release version]
 
 - Add 'kiss' and 'hug' commands (the most important thing in update)
 
