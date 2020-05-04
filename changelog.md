@@ -1,3 +1,13 @@
+## 0.92b 
+
+- You can set 3 DJ roles, instead of one
+
+- More notifications
+
+- 'pl list' command to get users playlists list
+
+- Bug fixes
+
 ## 0.9r (most stable) [release version]
 
 - Add 'kiss' and 'hug' commands (the most important thing in update)
