@@ -1,4 +1,4 @@
-## 0.92b 
+### 0.92b 
 
 - You can set 3 DJ roles, instead of one
 
@@ -8,7 +8,7 @@
 
 - Bug fixes
 
-## 0.91b (most stable)
+### 0.91b (most stable)
 
 - Add 'kiss' and 'hug' commands (the most important thing in update)
 
