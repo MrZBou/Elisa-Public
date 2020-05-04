@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 0.9 release
+## Current version: 0.92b
 
 This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. Thanks.
 
@@ -13,7 +13,7 @@ More admin commands in 'settings commands'
 
 - e!install - Install bot music interface the current channel [Only admins/DJ's can use this]
 
-- e!DJrole [@role] - Gives this role the permission to full control of the bot [Only admins can use this]
+- e!djrole [@role] - Gives this role the permission to full control of the bot (max DJ roles: 3) [Only admins can use this]
 
 - e!prefix [prefix] - Change bot prefix. If [prefix] is empty, then bot will display your current prefix (this command will also work with the 'e!' prefix, even if you change it)
 
@@ -21,7 +21,7 @@ More admin commands in 'settings commands'
 
 - e!removerole [level] - Reset the role for getting this level
 
-- e!roles - Get a message with data on levels and their roles
+- e!roles - Get a message with data on levels and their roles (in DM)
 
 - e!autoclear - Disabling/enabling clearing old roles, gotten from level up's, when you reach a new level role (default: enabled)
 
@@ -31,7 +31,7 @@ More admin commands in 'settings commands'
 ***
 ### Default commands
 
-- e!help (e!ru_help for russian language) - Message with all bot commands with explanations
+- e!help - Message with all bot commands with explanations
 
 - e!user - Get some information about mentioned user
 
@@ -69,13 +69,15 @@ Funny commands
 
 Playlists commands
 
-- e!pl_add [num / num1-num2] - Add selected songs from song queue to playlist
+- e!pl add [num / num1-num2] - Add selected songs from song queue to playlist
 
-- e!pl_get [@user] - Get your playlist, or playlist of mentioned user (if him playlist is public)
+- e!pl get [@user] - Get your playlist, or playlist of mentioned user (in DM)
 
-- e!pl_play [num / num1-num2] [@user] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue, and if you don't pick a user, your playlist will be playing)
+- e!pl play [num / num1-num2] [@user] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue, and if you don't pick a user, your playlist will be playing)
 
-- e!pl_private - Set your playlist private/public
+- e!pl private - Set your playlist private/public
 
-- e!pl_remove [num / num1-num2] - Remove selected song/songs from the queue
+- e!pl remove [num / num1-num2] - Remove selected song/songs from the queue
+
+- e!pl list - Get a full list of user's playlists (in DM)
 
