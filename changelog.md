@@ -8,7 +8,7 @@
 
 - Bug fixes
 
-## 0.9r (most stable) [release version]
+## 0.91b (most stable)
 
 - Add 'kiss' and 'hug' commands (the most important thing in update)
 
