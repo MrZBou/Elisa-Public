@@ -1,9 +1,11 @@
 # Elisa public repository
-## Current version: 0.92b
+## Current version: 0.93b
 
 This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. Thanks.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=305145856
+
+> Support server invite - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=305145856
 
   ## Main commands
 >> __Square brackets ( [] ) are used to indicate the value you must type. When using the command, *you do not need to write them*! For example: e!DJrole [@role], you should type e!DJrole @DJ__
