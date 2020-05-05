@@ -1,3 +1,9 @@
+### 0.93b
+
+- Embeds instead default messages
+
+- Fix bugs that stopped the bot
+
 ### 0.92b 
 
 - You can set 3 DJ roles, instead of one
