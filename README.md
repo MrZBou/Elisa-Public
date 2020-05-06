@@ -3,7 +3,7 @@
 
 This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. Thanks.
 
-> Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=271607808
+> Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=271640576
 
 > Support server invite - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=305145856
 
