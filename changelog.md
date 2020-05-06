@@ -1,3 +1,19 @@
+### 0.95b (most stable)
+
+- Upgrade 'user' command. And if you disable the level system on the server, then it and cash will not be displayed in the user information
+
+- Add funny commands with different outcomes :) - 'wink', 'spit', 'punch', 'kill'/'shot'
+
+- Fix music bugs, when bot may be restarted while playing music (not finally :C)
+
+- You can check/sets/removes DJrole in music channel too. Yeay.
+
+- Add 'color' command to change embed color. Working in music channel too. Support red, blue, green, yellow, orange, white-blue, gray, black, dark, pink, maroon, lime, purple colors.
+
+- Pay command be improved. Now the message always looks right and changes depending on the amount sent. You can also swap the mention and amount (e!pay 5 @zbou, e!pay @zbou 5 be working too)
+
+#### I would be very glad for your suggestions for updating in our support server - [Elisa Supporting discord server](https://discord.gg/MRwhjHP)
+
 ### 0.93b
 
 - Embeds instead default messages
@@ -14,7 +30,7 @@
 
 - Bug fixes
 
-### 0.91b (most stable)
+### 0.91b
 
 - Add 'kiss' and 'hug' commands (the most important thing in update)
 
