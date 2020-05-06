@@ -1,11 +1,11 @@
 # Elisa public repository
-## Current version: 0.93b
+## Current version: 0.95b
 
 This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. Thanks.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=271640576
 
-> Support server invite - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=305145856
+> Support server invite - https://discord.gg/MRwhjHP
 
   ## Main commands
 >> __Square brackets ( [] ) are used to indicate the value you must type. When using the command, *you do not need to write them*! For example: e!DJrole [@role], you should type e!DJrole @DJ__
@@ -44,12 +44,20 @@ Funny commands
 - e!kiss [@user] - Kiss the user (who would have thought?)
 
 - e!hug [@user] - Hug the user
+
+- e!spit [@user] - Spit to user
+
+- e!punch [@user] - Punch the user
+
+- e!kill [@user] - Kill the user (cruel, but fair) (instead kill may type shot)
 ***
 ### Music interface commands
 
 - e!uninstall - Uninstall music interface (the bot will accept this channel like any other)
 
 - e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx' **[only for admins]**
+
+- e!color [color name] - Change inteface strip color **[only for admins]**
 
 - e!skip - Skip current song (instead of this command i recommend using ⏭️ button in UI)
 
