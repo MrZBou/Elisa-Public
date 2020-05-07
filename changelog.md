@@ -56,17 +56,9 @@
 
 - Optimize updating system, now bot will save all necessary information before reloading
 
-- Stabilizate for use
-
-### 0.89b
-
-- The bot will no longer sent you DM's about a enought of permissions when you just writing in text channels
-
 - Now you can get information and play other people's playlists by adding his id or mention at the end of the message
 
 - Add 'levels' command to enabling/disabling levels system (with roles) on this channel
-
-- Stabilizate work
 
 ### 0.84b
 
