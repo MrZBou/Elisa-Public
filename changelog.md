@@ -1,3 +1,21 @@
+## 1.0 (testing)
+
+- Redesigned music system. Now the errors is minimized
+
+- 'ignore' command to ignore prefixes in voice channel (for example, if you like p!catch in the music channel)
+
+- Shoping system. You can sell roles for the cash you receive for messages. They were previously useless.
+
+- 'bal' command to check your current balance
+
+- You can reset embed image using 'image reset'
+
+- 'user/rank' refined, now there is more information
+
+- Manager role system. Users with the manager role will be able to circumvent the limitations of the music system. For example, using UI reaction, not being in the channel with the bot.
+
+- Fix many bugs
+
 ### 0.95b (most stable)
 
 - Upgrade 'user' command. And if you disable the level system on the server, then it and cash will not be displayed in the user information
