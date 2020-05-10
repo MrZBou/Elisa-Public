@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 0.95b
+## Current version: 1.0 (in testing)
 
 This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. Thanks.
 
@@ -15,7 +15,13 @@ More admin commands in 'settings commands'
 
 - e!install - Install bot music interface the current channel [Only admins/DJ's can use this]
 
+- e!shop add [@role] [cost] [description] - Add role to the store
+
+- e!shop remove [code/role-position] - Remove role from the store
+
 - e!djrole [@role] - Gives this role the permission to full control of the bot (max DJ roles: 3) [Only admins can use this]
+
+- e!manager [@role] - Set the manager role. Managers can control the music without even being in the music voice channel.
 
 - e!prefix [prefix] - Change bot prefix. If [prefix] is empty, then bot will display your current prefix (this command will also work with the 'e!' prefix, even if you change it)
 
@@ -33,11 +39,15 @@ More admin commands in 'settings commands'
 ***
 ### Default commands
 
+- e!shop - Roles store on this server (e!shop list - smallest version)
+
 - e!help - Message with all bot commands with explanations
 
 - e!user - Get some information about mentioned user
 
 - e!pay [amount] [@user / userid] - Transfer money to another user (money displayed in e!user)
+
+- e!bal - Check your current balance
 
 Funny commands
 
@@ -53,9 +63,15 @@ Funny commands
 ***
 ### Music interface commands
 
+- e!ignore - Current ignored prefixes in music channel
+
+- e!ignore [prefix] - Ignore messages with this prefix in music channel **[only for admins]**
+
+- e!ignore clear - Clear ignored prefixes list **[only for admins]**
+
 - e!uninstall - Uninstall music interface (the bot will accept this channel like any other)
 
-- e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx' **[only for admins]**
+- e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx'. You can reset image using 'e!image reset' **[only for admins]**
 
 - e!color [color name] - Change inteface strip color **[only for admins]**
 
@@ -78,6 +94,8 @@ Funny commands
 - e!replace [song1] [song2] - Replace the song1 to song2
 
 Playlists commands
+
+- e!pl help - Help with playlists commands
 
 - e!pl add [num / num1-num2] - Add selected songs from song queue to playlist
 
