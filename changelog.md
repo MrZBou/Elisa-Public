@@ -1,3 +1,13 @@
+### 1.1
+
+- 'install' comand install music UI in special channel
+
+- Bots messages will now be deleted in the music channel
+
+- Translate to russian language, if guild region - Russia (not finished)
+
+- Bug fixes
+
 ## 1.0 (testing)
 
 - Redesigned music system. Now the errors is minimized
