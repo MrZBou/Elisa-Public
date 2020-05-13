@@ -1,9 +1,3 @@
-### 1.1b
-
-- Improve russia translate
-
-- Bug fixes
-
 ### 1.1a
 
 - 'install' comand install music UI in special channel
