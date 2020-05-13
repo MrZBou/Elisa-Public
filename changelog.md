@@ -1,4 +1,10 @@
-### 1.1
+### 1.1b
+
+- Improve russia translate
+
+- Bug fixes
+
+### 1.1a
 
 - 'install' comand install music UI in special channel
 
@@ -8,7 +14,7 @@
 
 - Bug fixes
 
-## 1.0 (testing)
+## 1.0a (testing)
 
 - Redesigned music system. Now the errors is minimized
 
