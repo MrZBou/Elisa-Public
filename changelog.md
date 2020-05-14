@@ -6,6 +6,8 @@
 
 - Translate to russian language, if guild region - Russia (not finished)
 
+- 'leave' command
+
 - Bug fixes
 
 ## 1.0a (testing)
