@@ -41,6 +41,8 @@ More admin commands in 'settings commands'
 
 - e!shop - Roles store on this server (e!shop list - smallest version)
 
+- e!shop buy - Buy item from store
+
 - e!help - Message with all bot commands with explanations
 
 - e!user - Get some information about mentioned user
