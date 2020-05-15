@@ -1,3 +1,21 @@
+### 1.2a
+
+- Now Managers fully controlling the Elisa, except for set the manager role
+
+- By default in created music channel (when using e!install), everyone can be read and send messages
+
+- Fixed music search system. Now, by URL, a song can be found with almost 100% probability
+
+- Now live streams playing correctly
+
+- Changed default color and backgroun embed image
+
+- Added the 'all' property to playlist options. For example, you can play all songs from a playlist by writing **e!pl play all**. This workyly with **e!pl remove** and **e!pl add**
+
+- Improve russian translate
+
+- Bug fixes
+
 ### 1.1a
 
 - 'install' comand install music UI in special channel
