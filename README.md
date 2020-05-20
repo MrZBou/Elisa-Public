@@ -35,6 +35,8 @@ More admin commands in 'settings commands'
 - e!notifications - Disabling/enabling bot notifications (level up, music initialize) (default: enabled)
 
 - e!levels [enable/disable] - Enabling/disabling levels-roles system on this channel (default: enabled)
+
+- e!reset settings - Set the default settings for the bot (like when you added she to the server)
 ***
 ### Default commands
 
