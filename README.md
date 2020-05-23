@@ -40,6 +40,8 @@ More admin commands in 'settings commands'
 ***
 ### Default commands
 
+- e!top [levels/money] - Top users in this category (type just e!top to get full information)
+
 - e!shop - Roles store on this server (e!shop list - smallest version)
 
 - e!shop buy - Buy item from store
