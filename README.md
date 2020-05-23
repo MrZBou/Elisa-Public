@@ -64,7 +64,7 @@ Funny commands
 
 - e!punch [@user] - Punch the user
 
-- e!kill [@user] - Kill the user (cruel, but fair) (instead kill may type shot)
+- e!kill [@user] - Kill the user (cruel, but fair)
 ***
 ### Music interface commands
 
@@ -74,7 +74,7 @@ Funny commands
 
 - e!ignore clear - Clear ignored prefixes list **[only for admins]**
 
-- e!uninstall - Uninstall music interface (the bot will accept this channel like any other)
+- e!uninstall - Uninstall music interface (Elisa will accept this channel like any other) **[only for admins]**
 
 - e!image [image URL] - Change background image for interface (shows when song queue is empty). Preferably use 'imgur' or 'yapx'. You can reset image using 'e!image reset' **[only for admins]**
 
