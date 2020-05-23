@@ -1,4 +1,18 @@
-### 1.2a
+### 1.3
+
+- New host and much better audio quality
+
+- Improve the leveling/money system
+
+- Added 'top' command. Shows the highest levels from all servers where Elisa is located
+
+- Russian translate was improved
+
+- Fix bugs in shop system
+
+- Fix many bugs
+
+### 1.2
 
 - Now Managers fully controlling the Elisa, except for set the manager role
 
@@ -16,7 +30,7 @@
 
 - Bug fixes
 
-### 1.1a
+### 1.1
 
 - 'install' comand install music UI in special channel
 
@@ -28,7 +42,7 @@
 
 - Bug fixes
 
-## 1.0a (testing)
+## 1.0 (testing)
 
 - Redesigned music system. Now the errors is minimized
 
