@@ -54,6 +54,8 @@ More admin commands in 'settings commands'
 
 - e!bal - Check your current balance
 
+- e!status - Elisa's permissions status
+
 Funny commands
 
 - e!kiss [@user] - Kiss the user (who would have thought?)
