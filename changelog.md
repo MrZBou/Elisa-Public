@@ -1,3 +1,17 @@
+### 1.4
+
+- Update music player visual's
+
+- You can set volume between 30% - 200% (before - 50% - 150%)
+
+- Song queue size upped to 61 songs
+
+- 'status' command to check enought permissions
+
+- New Elisa's avatar :D
+
+- Bug fixes
+
 ### 1.3
 
 - New host and much better audio quality
