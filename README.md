@@ -1,6 +1,6 @@
 # Elisa public repository
 ## Current version: 1.4
-This is the official repository of the discord bot 'Elisa'. In the ''Issues tab, you can leave an error message and I will definitely consider it. Thanks.
+This is the official repository of the discord bot 'Elisa'.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=271641616
 
@@ -90,7 +90,7 @@ Funny commands
 
 - e!skipto [number] - Skip songs before to the selected
 
-- e!remove [number] - Remove picked song from the queue
+- e!remove [number / number1 number2 ...] - Remove picked song / songs from the queue
 
 - e!last - Add last played song to the queue
 
