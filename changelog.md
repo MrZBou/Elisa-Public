@@ -1,4 +1,4 @@
-#### 1.4.1
+#### 1.4.1 [update 02.06.2020]
 
 - fix bug when songs titles cuts forever, if song queue size exceeds 30
 
