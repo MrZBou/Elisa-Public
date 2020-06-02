@@ -1,3 +1,13 @@
+#### 1.4.1
+
+- fix bug when songs titles cuts forever, if song queue size exceeds 30
+
+- 'removerole' wasn't working
+
+- 'image' command now supports attached images
+
+- 'djrole' & 'manager' commands now not avaliable in music channel
+
 ### 1.4
 
 - Update music player visual's
