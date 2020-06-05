@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 1.4
+## Current version: 1.4.2
 This is the official repository of the discord bot 'Elisa'.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=271641616
@@ -67,6 +67,8 @@ Funny commands
 - e!punch [@user] - Punch the user
 
 - e!kill [@user] - Kill the user (cruel, but fair)
+
+- e!health [@user] - Health of user
 ***
 ### Music interface commands
 
