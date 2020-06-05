@@ -1,3 +1,11 @@
+#### 1.4.2 [update 05.06.2020]
+
+- Optimized code
+
+- Health system with 'health' command [funny commands]
+
+- shop add, shop remove, etc. may be using with no space
+
 #### 1.4.1 [update 02.06.2020]
 
 - fix bug when songs titles cuts forever, if song queue size exceeds 30
