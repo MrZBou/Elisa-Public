@@ -1,3 +1,13 @@
+#### 1.4.3 [update 21.06.2020]
+
+- Health system improved
+
+- Fix bug, when time bar of repeated song be laggy
+
+- Fix song titles in queue (when one " in title can coloring all queue)
+
+- Update modules
+
 #### 1.4.2 [update 05.06.2020]
 
 - Optimized code
