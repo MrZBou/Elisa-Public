@@ -1,3 +1,7 @@
+#### 1.4.4 [update 12.07.2020]
+
+- Changed player, now Elisa will work more stable and will not turn off for few hours
+
 #### 1.4.3 [update 21.06.2020]
 
 - Health system improved
