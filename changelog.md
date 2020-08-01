@@ -26,6 +26,8 @@
 
 - 'pl list' is now multiple pages and sorted by the amount of tracks in the playlist
 
+- Added 'ping' command
+
 - URL's now plays correctly
 
 - Other small changes that make using Elisa better.
