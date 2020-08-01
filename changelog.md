@@ -1,3 +1,37 @@
+### 1.5 [update 01.08.2020]
+
+- Added the opportunity to loop the queue of tracks, and adding a queue to your playlist. Added 'loop' command to manage repeating queue.
+
+- Fixed translation problems.
+
+- Improved sound quality, also live streams do not laggy
+
+- Added playing attached mp3 files. The message sented with this file will become its title.
+
+- The volume can now be set in the range from 5-200% (old: 30-200)
+
+- Added the 'clean' command, which removes unnecessary messages in the music channel.
+
+- After installing a music channel, you can go to it through the channel mention.
+
+- Queue size increased to 100 tracks.
+
+- When Elisa added to the server, she will send a message using a channel convenient for her.
+
+- Removed 'autoleave', 'autoclear', 'notifications', 'levels' commands. All available settings are in the 'settings' command. Some options have also been added.
+
+- The statistic system now works for each server separately. After the update, the first server where you send some message will receive these statistics, on the other servers your stat's will be cleaned. Also 'top' command shows the best on the current server, and 'top g' shows the best of all users.
+
+- 'pl list' is now multiple pages and sorted by the amount of tracks in the playlist
+
+- URL's now plays correctly
+
+- Other small changes that make using Elisa better.
+
+- Fixed many bugs.
+
+Thanks to all users, with you all I finally got Elisa's verification, I am very happy to continue make updates for you!)
+
 #### 1.4.4 [update 12.07.2020]
 
 - Changed player, now Elisa will work more stable and will not turn off for few hours
