@@ -6,6 +6,8 @@
 
 - Improved sound quality, also live streams do not laggy
 
+- The title of the playing song now has a link where you can go to the original video
+
 - Added playing attached mp3 files. The message sented with this file will become its title.
 
 - The volume can now be set in the range from 5-200% (old: 30-200)
