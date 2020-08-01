@@ -9,7 +9,9 @@ This is the official repository of the discord bot 'Elisa'.
   ## Main commands
 >> __Square brackets ( [], <> ) are used to indicate the value you must type. When using the command, *you do not need to write them*! For example: e!DJrole [@role], you should type e!DJrole @DJ__
 
->> <> - required, [] - optional
+
+### <> - required, [] - optional
+
 
 ### Admins commands
 More admin commands in 'settings commands'
@@ -81,8 +83,6 @@ Funny commands
 - e!skip - Skip current song (instead of this command i recommend using ⏭️ button in UI)
 
 - e!stop - Clear the song queue (instead of this command i recommend using ⏹️ button in UI)
-
-- e!autoleave - Disabling/Enabling auto leave from voice channel, when song queue is empty (default: disabled)
 
 - e!skipto <number> - Skip songs before to the selected
 
