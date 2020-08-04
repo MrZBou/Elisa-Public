@@ -110,9 +110,9 @@ Playlists commands
 
 - e!pl add <num / num1-num2> - Add selected songs from song queue to playlist
 
-- e!pl get [@user / userid] - Get your playlist, or playlist of mentioned user (in DM)
+- e!pl get [@user / userid] - Get your playlist, or playlist of mentioned user (in DM).
 
-- e!pl play [num / num1-num2] [@user / userid] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue, and if you don't pick a user, your playlist will be playing)
+- e!pl play [num / num1-num2 / n + position in 'pl list'] [@user / userid] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue, and if you don't pick a user, your playlist will be playing). Also you can get playlist by position of playlist in 'pl list'. Example: 'pl play n7'
 
 - e!pl private - Set your playlist private/public
 
