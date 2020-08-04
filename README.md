@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 1.5
+## Current version: 1.5.1
 This is the official repository of the discord bot 'Elisa'.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=8
@@ -80,11 +80,15 @@ Funny commands
 
 - e!color <color name> - Change inteface strip color **[only for admins]**
 
-- e!skip - Skip current song (instead of this command i recommend using ⏭️ button in UI)
+- e!skip - Skip current track (instead of this command i recommend using ⏭️ button in UI)
 
-- e!stop - Clear the song queue (instead of this command i recommend using ⏹️ button in UI)
+- e!stop - Clear the track queue (instead of this command i recommend using ⏹️ button in UI)
 
-- e!skipto <number> - Skip songs before to the selected
+- e!skipto <number> - Skip tracks before to the selected
+  
+- e!skipfrom <number> - Skip all tracks counting from the specified
+  
+- e!skipfromto <number> - Skip tracks in the specified range
 
 - e!remove <number / number1 number2 ...] - Remove picked song / songs from the queue
 
