@@ -1,3 +1,17 @@
+#### 1.5.1 [update 05.08.2020]
+
+- Fixed bug with video requesting via url
+
+- Fixed bug due to which Elisa could not play music in a full voice channel.
+
+- Fixed an issue where Eliza could restart for no apparent reason (processing)
+
+- Fixed bugs with 'pl list'. With that you can play playlists not only by their userid, but also by position in 'pl list'
+
+- Added commands 'skipfrom' and 'skipfromto' for better interact with a queue
+
+- New option (in 'settings' command) to send messages of level up to DM's / text channel
+
 ### 1.5 [update 01.08.2020]
 
 - Added the opportunity to loop the queue of tracks, and adding a queue to your playlist. Added 'loop' command to manage repeating queue.
