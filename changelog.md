@@ -4,9 +4,11 @@
 
 - Fixed bug due to which Elisa could not play music in a full voice channel.
 
-- Fixed an issue where Eliza could restart for no apparent reason (processing)
+- Fixed bug where Elisa could restart for no apparent reason (processing)
 
 - Fixed bugs with 'pl list'. With that you can play playlists not only by their userid, but also by position in 'pl list'
+
+- Fixed a bug due to which the requester of a track from the playlist was the one who last added it to his playlist
 
 - Added commands 'skipfrom' and 'skipfromto' for better interact with a queue
 
