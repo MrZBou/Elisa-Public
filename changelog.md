@@ -12,6 +12,8 @@
 
 - New option (in 'settings' command) to send messages of level up to DM's / text channel
 
+- 'ping' command shows the uptime and current working Elisa's version
+
 ### 1.5 [update 01.08.2020]
 
 - Added the opportunity to loop the queue of tracks, and adding a queue to your playlist. Added 'loop' command to manage repeating queue.
