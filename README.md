@@ -40,6 +40,8 @@ More admin commands in 'settings commands'
 ***
 ### Default commands
 
+- e!ping - Shows delays as well as upTime and current version of Elisa
+
 - e!top ['g'] - Top users in this category (type just e!top to get full information)
 
 - e!shop - Roles store on this server (e!shop list - smallest version)
