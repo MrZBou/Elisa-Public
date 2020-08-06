@@ -176,7 +176,7 @@ Thanks to all users, with you all I finally got Elisa's verification, I am very 
 
 - Fix many bugs
 
-### 0.95b (most stable)
+### 0.95b
 
 - Upgrade 'user' command. And if you disable the level system on the server, then it and cash will not be displayed in the user information
 
