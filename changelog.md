@@ -1,3 +1,17 @@
+#### 1.5.2 [update 06.08.2020]
+
+- Elisa now gives roles as levels by id. That is, you can change the name of the role that receiving for a level, and Elisa can find and give that role.
+
+- Added messages for 'addrole' and 'removerole' commands, in case of lack of permissions, Elisa will notify you
+
+- 'roles' command changes to 'levels', and now shows id of the role.
+
+- Added a GIF that shows how to use Elisa's music for those trying to use the 'play' command
+
+- Fixed bug with 'prefix' command.
+
+- Fixed other minor issues.
+
 #### 1.5.1 [update 05.08.2020]
 
 - Fixed bug with video requesting via url
