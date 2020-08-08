@@ -36,7 +36,7 @@ More admin commands in 'settings commands'
 
 - e!settings [option number] - Elisa's settings
 
-- e!reset settings - Set the default settings for the bot (like when you added she to the server)
+- e!reset all - Set the default settings for the bot (like when you added she to the server)
 ***
 ### Default commands
 
