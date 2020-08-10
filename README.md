@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 1.5.2
+## Current version: 1.5.3
 This is the official repository of the discord bot 'Elisa'.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=8
@@ -28,13 +28,9 @@ More admin commands in 'settings commands'
 
 - e!prefix [prefix] - Change bot prefix. If [prefix] is empty, then bot will display your current prefix (this command will also work with the 'e!' prefix, even if you change it)
 
-- e!addrole <level> <@role> - Set role as a reward for get this level
+- e!levels [add/remove/clear/help] - Leveling roles integration
 
-- e!removerole <level> - Reset the role for getting this level
-
-- e!roles - Get a message with data on levels and their roles (in DM)
-
-- e!settings [option number] - Elisa's settings
+- e!settings [option number] [0/1] - Elisa's settings
 
 - e!reset all - Set the default settings for the bot (like when you added she to the server)
 ***
@@ -59,6 +55,8 @@ More admin commands in 'settings commands'
 - e!status - Elisa's permissions status
 
 Funny commands
+
+- e!battle <@user> - Battle with user
 
 - e!kiss [@user] - Kiss the user (who would have thought?)
 
