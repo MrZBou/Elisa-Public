@@ -1,3 +1,21 @@
+#### 1.5.3 [update 10.08.2020]
+
+- You can specific videos from playlists by index at the end of url (&index=)
+
+- Fixed all bugs with 'top' and 'top g' commands
+
+- Upgrade messages are deleted after timeout if they were sent to the music channel
+
+- Rewritten old interface code, now there will be fewer errors with it. Also, if nothing is playing, the status will be an emoji ⏹️, and when the music is playing, the channel name will be shown at the topю
+
+- Changed the settings command and now it is much easier to use it
+
+- Added 2 new options in settings. 1 - Hide the names of private channels while playing music in them, 2 - Don't show time bar
+
+- Upon reaching a new level, if a role is attached to it, then the message will be written about it
+
+- 'battle' funny command. The bottom line is choosing the actions that will bring you victory. You have a limited money for which you must purchase the necessary items. Then try to kill your opponent using these items.
+
 #### 1.5.2 [update 06.08.2020]
 
 - Elisa now gives roles as levels by id. That is, you can change the name of the role that receiving for a level, and Elisa can find and give that role.
