@@ -1,4 +1,4 @@
-#### 1.5.3 [update 10.08.2020]
+#### 1.5.3 [update 10.08.2020] [+hotfix 11.08.2020]
 
 - You can specific videos from playlists by index at the end of url (&index=)
 
