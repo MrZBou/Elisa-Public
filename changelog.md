@@ -22,6 +22,8 @@ __Music__
 
 - You can change the picture ("image") even if music is playing now
 
+- The 'skipto' and 'skipfrom' commands now work correctly
+
 __Using__
 
 - The mention of Elisa at the beginning of the message denoted as a prefix. (helps if you forgot it)
