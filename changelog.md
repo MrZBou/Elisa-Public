@@ -32,6 +32,7 @@ __Using__
 
 - Fixed many bugs
 
+***
 
 #### 1.5.3 [update 10.08.2020] [+hotfix 11.08.2020]
 
