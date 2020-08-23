@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 1.5.3
+## Current version: 1.6
 This is the official repository of the discord bot 'Elisa'.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=8
@@ -14,13 +14,14 @@ This is the official repository of the discord bot 'Elisa'.
 
 
 ### Admins commands
-More admin commands in 'settings commands'
 
 - e!install - Install bot music interface the current channel [Only admins/DJ's can use this]
 
 - e!shop add <@role> <cost> [description] - Add role to the store
 
 - e!shop remove <code/role-position> - Remove role from the store
+
+- e!treasury [add/take/percent/award] [amount] [@role for "award"] - Treasury system.
 
 - e!djrole [@role] - Gives this role the permission to full control of the bot (max DJ roles: 3) [Only admins can use this]
 
