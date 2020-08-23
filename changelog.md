@@ -1,3 +1,35 @@
+### 1.6 [update 23.08.2020]
+
+__Economy / Leveling__
+
+- ##### Treasury system. For each transfer between users, the treasury will receive a commission from the transfers (default - 3%). You can change the amount of the commission, take money from the treasury, distribute it for specific roles, and donate your money in the treasury. (command - "treasury")
+
+- Experience is now given for being in the voice channel, and small amounts of money come to the treasury. If Elisa's music is playing in the channel, then the received reward increases.
+
+- The maximum level for "level" command has been increased to 150 (was 100)
+
+- Fixed bugs with the systems
+
+__Music__
+
+- If the channel in which Elisa is playing music is empty, then you can request music from any other channel, and Elisa will connect to this channel and completely clear the music queue. This option can be disabled in the settings.
+
+- Connecting to full voice channels (only with administrator permissions)
+
+- The repeating track is no longer accompanied by an audio initialization message.
+
+- Changed audio equalizer settings
+
+- You can change the picture ("image") even if music is playing now
+
+__Using__
+
+- The mention of Elisa at the beginning of the message denoted as a prefix. (helps if you forgot it)
+
+- Added 12 settings to make all Elisa messages shorter.
+
+- Fixed many bugs
+
 #### 1.5.3 [update 10.08.2020] [+hotfix 11.08.2020]
 
 - You can specific videos from playlists by index at the end of url (&index=)
