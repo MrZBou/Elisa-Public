@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 1.6
+## Current version: 1.6.1
 This is the official repository of the discord bot 'Elisa'.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=8
@@ -72,8 +72,6 @@ Funny commands
 - e!health [@user] - Health of user
 ***
 ### Music interface commands
-
-- e!ignore [prefix / 'clear'] - Current ignored prefixes in music channel / Ignore messages with this prefix in music channel **[only for admins]**
 
 - e!uninstall - Uninstall music interface (Elisa will accept this channel like any other) **[only for admins]**
 
