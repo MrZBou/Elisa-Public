@@ -1,3 +1,25 @@
+#### 1.6.1 [update 4.08.2020]
+
+__Using__
+
+- #### Full russian translation. Almost all text is now translated if the guild region is Russia.
+
+- The interface now shows the count of views on the video.
+
+- The amount of money in the treasury is displayed more beautifully if it is more than 1K or 1M
+
+- Interface design get some changes.
+
+__Bug fixes__
+
+- 'shop buy' command now work correctly
+
+- 'top' command now work correctly
+
+- Some messages might not be sent into channel
+
+- Fixed bug when bot get stopped
+
 ### 1.6 [update 23.08.2020]
 
 __Economy / Leveling__
