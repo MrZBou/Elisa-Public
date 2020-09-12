@@ -1,4 +1,20 @@
-#### 1.6.1 [update 4.08.2020]
+#### 1.6.2 [update 12.09.2020]
+
+__Features__
+
+- #### Deposit system. Deposit system. Stores money and increases its amount over time. Does not interact with the server treasury in any way. You can put your money to deposit using 'deposit add <amount>' and take with command 'deposit take <amount>'
+  
+- 'reset all' command resets all user statistics [level, exp, money, deposit] on the server
+
+__Bug fix__
+
+- Simplified connection system. By fact, this only fixes most of the possible bugs and errors associated with music.
+
+- Role manager did not work in a 1.6.1 ver.
+
+- After a kick from the server, Elisa will delete all data associated with server.
+
+#### 1.6.1 [update 4.09.2020]
 
 __Using__
 
