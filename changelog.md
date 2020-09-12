@@ -2,7 +2,7 @@
 
 __Features__
 
-- #### Deposit system. Deposit system. Stores money and increases its amount over time. Does not interact with the server treasury in any way. You can put your money to deposit using 'deposit add <amount>' and take with command 'deposit take <amount>'
+- #### Deposit system. Stores money and increases its amount over time. Does not interact with the server treasury in any way. You can put your money to deposit using 'deposit add <amount>' and take with command 'deposit take <amount>'
   
 - 'reset all' command resets all user statistics [level, exp, money, deposit] on the server
 
