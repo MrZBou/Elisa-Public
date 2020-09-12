@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 1.6.1
+## Current version: 1.6.2
 This is the official repository of the discord bot 'Elisa'.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=8
@@ -52,6 +52,8 @@ This is the official repository of the discord bot 'Elisa'.
 - e!pay <amount> <@user / userid> - Transfer money to another user (money displayed in e!user)
 
 - e!bal [@user] - Check your current balance
+
+- e!bal [add/take] [amount] - Deposit system. Stores money and increases its amount over time (default - 0.01% per minute). Does not interact with the server treasury.
 
 - e!status - Elisa's permissions status
 
