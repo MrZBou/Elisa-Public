@@ -1,3 +1,11 @@
+#### 1.6.3 [update 15.09.2020]
+
+- 'luck' command. You can set a bet and with an equal chance, you will either double it or lose it (be careful).
+
+- 'leveling' settings disables all economy/leveling commands.
+
+- Fix bug with russian translation for all messages.
+
 #### 1.6.2 [update 12.09.2020]
 
 __Features__
