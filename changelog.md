@@ -6,6 +6,8 @@
 
 - Fix bug with russian translation for all messages.
 
+- 'shop' fully supported russian language
+
 #### 1.6.2 [update 12.09.2020]
 
 __Features__
