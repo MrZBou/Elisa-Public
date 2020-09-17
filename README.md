@@ -53,7 +53,9 @@ This is the official repository of the discord bot 'Elisa'.
 
 - e!bal [@user] - Check your current balance
 
-- e!bal [add/take] [amount] - Deposit system. Stores money and increases its amount over time (default - 0.01% per minute). Does not interact with the server treasury.
+- e!luck <amount> - Double or lose the billed money
+
+- e!dep [add/take] [amount] - Deposit system. Stores money and increases its amount over time (default - 0.01% per minute). Does not interact with the server treasury.
 
 - e!status - Elisa's permissions status
 
