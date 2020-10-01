@@ -1,3 +1,58 @@
+### 1.7 [October Update, 2020]
+
+__Features__
+
+- #### Inventory system! Store and use various items. 
+- ##### * Items help in improving statistics, as well as in some other details (for example, increasing the volume of the music even more). 
+- ##### * Actions with items - Sold, pick (in the case of backgrounds), and also used.
+- ##### * 'item' command to get information about item by item ID
+- ##### * An exclusive background "elisa_bg" was added to all users for using Elisa
+***
+- 'gift' command.
+- * Getting a good prize, money, experience, or item
+- * There is a chance of getting nothing, there is also a chance of a jackpot
+- * Can be opened no more than 1 time per day. At 00:00 UTC. the counter is reset
+- * So far, the only way to get items
+***
+- 'rank' command.
+- * User card with his statistics. The level and XP, the bar of getting next level, the amount of money and money on the deposit, as well as the position in the top money and level are displayed. The amount of items in the inventory is also shown.
+- * The card is made in the form of a JPG picture, so it looks more beautiful than a regular embed
+- * You can change the background if you have the required item in your inventory
+- * The alias of the 'rank' command is 'level'. (previously 'rank' was an alias for the 'user' command)
+***
+- 'welcome' system.
+- * Allows you to send special messages to everyone who just got to your server.
+- * 'welcome enable' - Enable system, 'welcome disable' - Disable system, 'welcome text' - Change text of message, 'welcome channel' - Change the channel to which the message will be sent, 'welcome image' - Change image of message (image URL), 'welcome test' - Test welcome message on current channel
+***
+- New database for leveling/economy. Commands executes is now faster and has fewer bugs.
+
+- You can now add temporary items to the store. For example, if the item time is 3 hours, then the member who bought this role will lose it after 3 hours
+
+__Little changes__
+
+- 'ignore' command was removed
+
+- 'exp' termin changed to 'XP'
+
+- Instead of mentioning a person in the team, now you can write his nickname or ID (mentioning is still the best option)
+
+- 'user' command no longer shows statistics
+
+- 'user' command instead of all the roles of a person now shows his highest rights
+
+- 'shop add' now creates items with a 5-digit code of letters and numbers. Previously, the code was only numbers.
+
+- Adjusted the values required to get a new level
+
+__Bug Fixes__
+
+- DM's now always send full messages of leveling up. Previously, they were short at the enabled 12th setting.
+
+- Elisa's green talk icon now works correctly
+
+- Translation bug fixes.
+
+
 #### 1.6.3 [update 15.09.2020]
 
 - 'luck' command. You can set a bet and with an equal chance, you will either double it or lose it (be careful).
