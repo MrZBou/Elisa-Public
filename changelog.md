@@ -32,7 +32,7 @@ __Little changes__
 
 - 'ignore' command was removed
 
-- 'exp' termin changed to 'XP'
+- 'exp' term changed to 'XP'
 
 - Instead of mentioning a person in the team, now you can write his nickname or ID (mentioning is still the best option)
 
