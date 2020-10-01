@@ -52,6 +52,8 @@ __Bug Fixes__
 
 - Translation bug fixes.
 
+***
+***
 
 #### 1.6.3 [update 15.09.2020]
 
