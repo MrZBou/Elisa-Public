@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 1.6.3
+## Current version: 1.6.7
 #### Next update scheduled for ~01.10.2020
 This is the official repository of the discord bot 'Elisa'.
 
@@ -17,6 +17,8 @@ This is the official repository of the discord bot 'Elisa'.
 ### Admins commands
 
 - e!install - Install bot music interface the current channel [Only admins/DJ's can use this]
+
+- e!welcome [enable/disable/text/channel/image/test] - System of welcome new server members
 
 - e!shop add <@role> <cost> [description] - Add role to the store
 
@@ -38,29 +40,35 @@ This is the official repository of the discord bot 'Elisa'.
 ***
 ### Default commands
 
+- e!inv [use / pick / sell] [item number / item_id] - Inventory system
+
+- e!item <item_id> - Get information about item.
+
 - e!ping - Shows delays as well as upTime and current version of Elisa
 
 - e!top ['g'] - Top users in this category (type just e!top to get full information)
 
-- e!shop - Roles store on this server (e!shop list - smallest version)
-
-- e!shop buy <item code> - Buy item from store
+- e!shop - Roles store on this server (e!shop list - smallest version)  |  e!shop buy <item code> - Buy item from store
 
 - e!help - Message with all bot commands with explanations
 
 - e!user [@user] - Get some information about mentioned user, or about yourself
+
+- e!rank [@user] - Card with statictics of user
 
 - e!pay <amount> <@user / userid> - Transfer money to another user (money displayed in e!user)
 
 - e!bal [@user] - Check your current balance
 
 - e!luck <amount> - Double or lose the billed money
+  
+- e!gift - Open gift with nice things! Only once a day.
 
 - e!dep [add/take] [amount] - Deposit system. Stores money and increases its amount over time (default - 0.01% per minute). Does not interact with the server treasury.
 
 - e!status - Elisa's permissions status
 
-Funny commands
+Arcade commands
 
 - e!battle <@user> - Battle with user
 
