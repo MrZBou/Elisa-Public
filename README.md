@@ -16,7 +16,7 @@ This is the official repository of the discord bot 'Elisa'.
 
 ### Admins commands
 
-- e!install - Install bot music interface the current channel [Only admins/DJ's can use this]
+- e!install - Install bot music interface the current channel
 
 - e!welcome [enable/disable/text/channel/image/test] - System of welcome new server members
 
@@ -26,17 +26,19 @@ This is the official repository of the discord bot 'Elisa'.
 
 - e!treasury [add/take/percent/award] [amount] [@role for "award"] - Treasury system.
 
-- e!djrole [@role] - Gives this role the permission to full control of the bot (max DJ roles: 3) [Only admins can use this]
+- e!djrole [@role] - Gives this role the permission to full control of the bot (max DJ roles: 3)
 
 - e!manager [@role] - Set the manager role. Managers can control the music without even being in the music voice channel.
 
 - e!prefix [prefix] - Change bot prefix. If [prefix] is empty, then bot will display your current prefix (this command will also work with the 'e!' prefix, even if you change it)
 
+- e!color <color name> - Change inteface strip color
+
 - e!levels [add/remove/clear/help] - Leveling roles integration
 
 - e!settings [option number] [0/1] - Elisa's settings
 
-- e!reset all - Set the default settings for the bot (like when you added she to the server)
+- e!reset all - Remove all data and settings of Elisa (includes leveling/economy data of every server's member)
 ***
 ### Default commands
 
