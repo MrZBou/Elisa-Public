@@ -1,3 +1,14 @@
+#### 1.7.1 [02.10.2020]
+
+- 'welcome' command
+- * reset the image with the command 'welcome image reset'
+- * now the image is in embed (color of embed changing by 'color' command)
+- * support special args. Args stores in 'welcome args'. For example - 'welcome text Hello, [mention]! Nice to meet you on server [server_name]'. You can test message using 'welcome test' command. 
+
+- fixed bug with 'battle' command
+
+- fixed bug when Elisa did not send the error with adding the song
+
 ### 1.7 [October Update, 2020]
 
 __Features__
