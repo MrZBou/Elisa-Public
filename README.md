@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 1.7 (testing time)
+## Current version: 1.7.1 (testing time)
 #### Next update scheduled for ~ xx.xx.2020
 This is the official repository of the discord bot 'Elisa'.
 
