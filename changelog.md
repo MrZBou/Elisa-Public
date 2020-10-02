@@ -61,6 +61,8 @@ __Bug Fixes__
 
 - Elisa's green talk icon now works correctly
 
+- Fix bug, when shuffled queue loop could not be stopped with the stop button
+
 - Translation bug fixes.
 
 ***
