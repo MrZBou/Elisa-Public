@@ -1,6 +1,6 @@
 # Elisa public repository
-## Current version: 1.7.1 (testing time)
-#### Next update scheduled for ~ xx.xx.2020
+## Current version: 1.7.1
+#### Next update scheduled for ~ 01.11.2020
 This is the official repository of the discord bot 'Elisa'.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=8
