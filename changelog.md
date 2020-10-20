@@ -1,3 +1,11 @@
+#### 1.7.2 [20.10.2020, Fix Update]
+
+- Bug: item time get less than 0
+
+- Bug: battle command didn't work
+
+- Added some debugs to fix bugs in 1.8
+
 #### 1.7.1 [02.10.2020]
 
 - 'welcome' command
