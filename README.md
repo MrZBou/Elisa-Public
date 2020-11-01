@@ -1,11 +1,10 @@
 # Elisa public repository
-## Current version: 1.7.3
-#### Next update (1.8) scheduled for ~ 01.11.2020
+## Current version: 2.0
 This is the official repository of the discord bot 'Elisa'.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=8
 
-> Support server invite - https://discord.gg/MRwhjHP
+> Elisa's discord server - https://discord.gg/MRwhjHP
 
   ## Main commands
 >> __Square brackets ( [], <> ) are used to indicate the value you must type. When using the command, *you do not need to write them*! For example: e!DJrole [@role], you should type e!DJrole @DJ__
@@ -19,6 +18,12 @@ This is the official repository of the discord bot 'Elisa'.
 - e!install - Install bot music interface the current channel
 
 - e!welcome [enable/disable/text/channel/image/test] - System of welcome new server members
+
+- e!giverole [time in minutes] <@member> <@role> - Give role to a member
+
+- e!cp - Create a voice channel controlling panel
+
+- e!clear [time in hours] <amount of messages> - Clear messages in current text channel
 
 - e!shop add <@role> <cost> [description] - Add role to the store
 
@@ -36,6 +41,8 @@ This is the official repository of the discord bot 'Elisa'.
 
 - e!levels [add/remove/clear/help] - Leveling roles integration
 
+- e!levels message [title/text/channel/test/args] - Level up message settings
+
 - e!settings [option number] [0/1] - Elisa's settings
 
 - e!reset all - Remove all data and settings of Elisa (includes leveling/economy data of every server's member)
@@ -46,21 +53,27 @@ This is the official repository of the discord bot 'Elisa'.
 
 - e!item <item_id> - Get information about item.
 
+- e!category <category_id> - Get information about category
+
 - e!ping - Shows delays as well as upTime and current version of Elisa
 
-- e!top ['g'] - Top users in this category (type just e!top to get full information)
+- e!top - Top users in this category (type just e!top to get full information)
 
 - e!shop - Roles store on this server (e!shop list - smallest version)  |  e!shop buy <item code> - Buy item from store
 
 - e!help - Message with all bot commands with explanations
 
-- e!user [@user] - Get some information about mentioned user, or about yourself
+- e!commands - Full list of commands
 
-- e!rank [@user] - Card with statictics of user
+- e!user [@member] - Get some information about mentioned user, or about yourself
 
-- e!pay <amount> <@user / userid> - Transfer money to another user (money displayed in e!user)
+- e!rank [@member] - Card with statictics of user
 
-- e!bal [@user] - Check your current balance
+- e!trade <@member> - Trade with user (items/money)
+
+- e!pay <amount> <@member / userid> - Transfer money to another user (money displayed in e!user)
+
+- e!bal [@member] - Check your current balance
 
 - e!luck <amount> - Double or lose the billed money
   
@@ -68,23 +81,28 @@ This is the official repository of the discord bot 'Elisa'.
 
 - e!dep [add/take] [amount] - Deposit system. Stores money and increases its amount over time (default - 0.01% per minute). Does not interact with the server treasury.
 
+- e!job - Your job stat card
+
+- e!work - Start working / Complete job mini-game
+
+- e!collection [make] <collection_id> - Information about collection / Combine a collection to collectible item
+
 - e!status - Elisa's permissions status
 
 Arcade commands
 
-- e!battle <@user> - Battle with user
+- e!battle <@member> - Battle with user
 
-- e!kiss [@user] - Kiss the user (who would have thought?)
+- e!kill [@member] - Kill the user (cruel, but fair)
 
-- e!hug [@user] - Hug the user
+- e!health [@member] - Health of user
 
-- e!spit [@user] - Spit to user
+- e!kiss [@member] - Kiss the user
 
-- e!punch [@user] - Punch the user
+- e!hug [@member] - Hug the user
 
-- e!kill [@user] - Kill the user (cruel, but fair)
+- e!spit [@member] - Spit to user
 
-- e!health [@user] - Health of user
 ***
 ### Music interface commands
 
@@ -124,9 +142,9 @@ Playlists commands
 
 - e!pl add <num / num1-num2> - Add selected songs from song queue to playlist
 
-- e!pl get [@user / userid] - Get your playlist, or playlist of mentioned user (in DM).
+- e!pl get [@member / userid] - Get your playlist, or playlist of mentioned user (in DM).
 
-- e!pl play [num / num1-num2 / n + position in 'pl list'] [@user / userid] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue, and if you don't pick a user, your playlist will be playing). Also you can get playlist by position of playlist in 'pl list'. Example: 'pl play n7'
+- e!pl play [num / num1-num2 / n + position in 'pl list'] [@member / userid] - Add song/songs of playlist to the song queue (if you haven’t specified a number, the full playlist will added to queue, and if you don't pick a user, your playlist will be playing). Also you can get playlist by position of playlist in 'pl list'. Example: 'pl play n7'
 
 - e!pl private - Set your playlist private/public
 
