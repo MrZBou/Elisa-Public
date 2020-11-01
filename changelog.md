@@ -1,3 +1,7 @@
+## 2.0 [01.11.2020]
+
+- Release
+
 #### 1.7.3 [22.10.2020, Fix Update]
 
 - Fixed a bug due to which Elisa gave a privacy error for almost all of your requests
