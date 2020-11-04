@@ -1,5 +1,5 @@
 # Elisa public repository
-## Current version: 2.0.1
+## Current version: 2.1
 This is the official repository of the discord bot 'Elisa'.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=8
@@ -31,7 +31,7 @@ This is the official repository of the discord bot 'Elisa'.
 
 - e!treasury [add/take/percent/award] [amount] [@role for "award"] - Treasury system.
 
-- e!djrole [@role] - Gives this role the permission to full control of the bot (max DJ roles: 3)
+- e!dj [@role] - Gives this role the permission to full control of the bot (max DJ roles: 3)
 
 - e!manager [@role] - Set the manager role. Managers can control the music without even being in the music voice channel.
 
@@ -84,6 +84,8 @@ This is the official repository of the discord bot 'Elisa'.
 - e!job - Your job stat card
 
 - e!work - Start working / Complete job mini-game
+
+- e!case [buy/info] - Case store
 
 - e!collection [make] <collection_id> - Information about collection / Combine a collection to collectible item
 
