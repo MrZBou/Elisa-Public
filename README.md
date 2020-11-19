@@ -1,5 +1,6 @@
 # Elisa public repository
-## Current version: 2.1
+## Current version: 2.1.1
+## Next big update (2.2) date - ~01.12.2021
 This is the official repository of the discord bot 'Elisa'.
 
 > Invite link - https://discordapp.com/oauth2/authorize?client_id=696934742876225566&scope=bot&permissions=8
@@ -10,7 +11,7 @@ This is the official repository of the discord bot 'Elisa'.
 >> __Square brackets ( [], <> ) are used to indicate the value you must type. When using the command, *you do not need to write them*! For example: e!DJrole [@role], you should type e!DJrole @DJ__
 
 
-### <> - required, [] - optional
+### <> - required, [] - optional, || - alias
 
 
 ### Admins commands
@@ -29,7 +30,7 @@ This is the official repository of the discord bot 'Elisa'.
 
 - e!shop remove <code/role-position> - Remove role from the store
 
-- e!treasury [add/take/percent/award] [amount] [@role for "award"] - Treasury system.
+- e!treasury |e!tr| [add/take/percent/award] [amount] [@role for "award"] - Treasury system.
 
 - e!dj [@role] - Gives this role the permission to full control of the bot (max DJ roles: 3)
 
@@ -71,9 +72,9 @@ This is the official repository of the discord bot 'Elisa'.
 
 - e!trade <@member> - Trade with user (items/money)
 
-- e!pay <amount> <@member / userid> - Transfer money to another user (money displayed in e!user)
+- e!pay |e!transfer| <amount> <@member / userid> - Transfer money to another user (money displayed in e!user)
 
-- e!bal [@member] - Check your current balance
+- e!bal |e!money| [@member] - Check your current balance
 
 - e!luck <amount> - Double or lose the billed money
   
